@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="ASCII"?>
-<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2" environment="org.eclipse.dltk.core.environment.localEnvironment">
-  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0202Table/src/main.lua" timestamp="1429929949000" lastAccessTime="1429930364700"/>
-  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0202Table/src" timestamp="1429929659000" lastAccessTime="1429930364700">
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="10" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0202Table/src/main.lua" timestamp="1429929949000" lastAccessTime="1429930364830"/>
+  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0202Table/src" timestamp="1429929659000" lastAccessTime="1429930364830">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1352946153/1.idx"/>
+  </entries>
+  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0201HelloLua/src/main.lua" timestamp="1429929643000" lastAccessTime="1429930379610">
+    <attributes name="indexed" location="2838196607/308731171/5.idx"/>
+  </entries>
+  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0201HelloLua/src" timestamp="1429928583000" lastAccessTime="1429930379611">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2306157814/3.idx"/>
+  </entries>
+  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0203Array/src" timestamp="1429931293000" lastAccessTime="1429931879162">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3437093821/7.idx"/>
+  </entries>
+  <entries path="/Users/wurh/workspace/myproject/luaStudy/L0301OO1/src" timestamp="1429969889000" lastAccessTime="1429972072443">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2757373978/9.idx"/>
   </entries>
 </cache:CacheIndex>

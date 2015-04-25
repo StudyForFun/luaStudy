@@ -1,0 +1,11 @@
+-- 面向对象
+
+People = {}
+
+--function sayHi(parameters)
+--	print("People say hi")
+--end
+
+People.sayHi = function()
+  print("People say hi")
+end
