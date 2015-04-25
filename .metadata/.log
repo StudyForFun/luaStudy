@@ -1,0 +1,79 @@
+!SESSION 2015-04-25 10:51:07.337 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -keyring /Users/wurh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/wurh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:01:28.341
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:01:28.341
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.341
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.341
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:01:28.346
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:01:28.346
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.346
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.347
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:01:28.359
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:01:28.359
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.359
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.359
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:01:28.360
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:01:28.360
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.360
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:01:28.360
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:03:05.696
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:03:05.696
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.696
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.696
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:03:05.699
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:03:05.699
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.699
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.699
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:03:05.713
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:03:05.713
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.713
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.713
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2015-04-25 11:03:05.713
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2015-04-25 11:03:05.714
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.714
+!MESSAGE Software being installed: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-04-25 11:03:05.714
+!MESSAGE Missing requirement: Eclipse Git Team Provider - Task focused interface 3.7.0.201502260915-r (org.eclipse.egit.mylyn.feature.group 3.7.0.201502260915-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found

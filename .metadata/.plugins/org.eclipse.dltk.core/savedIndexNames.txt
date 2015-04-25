@@ -1,0 +1,1 @@
+/Users/wurh/workspace/myproject/luaStudy/.metadata/.plugins/org.eclipse.dltk.core/61337002.index
